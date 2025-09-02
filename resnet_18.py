@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1-xTI8u8g30hAUn452XeUcM7iZQFtCwCb
 """
 
+# ResNet18 on BreastMNIST: https://medmnist.com/
+
 # --- 1. Install and Import ---
 # We run the installation quietly with `-q`
 !pip install -q medmnist
